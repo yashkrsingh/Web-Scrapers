@@ -1,0 +1,262 @@
+
+
+HBO
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      03:05PM         Batman v Superman: Dawn of Justice
+2                      06:12PM                            The Conjuring 2
+3                      09:00PM                 XXx: Return of Xander Cage
+4                      11:05PM                                   Iron Man
+5                      01:08AM                              The Godfather
+6                      04:29AM                                  Jonah Hex
+7                      06:00AM                        Wrong Turn at Tahoe
+8                      07:12AM                             Monkey Trouble
+9                      09:01AM                                  Beethoven
+10                     10:31AM                         The Last Airbender
+11                     12:25PM                              Kung Fu Panda
+
+MOVIES NOW
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      03:50PM                             Shaolin Soccer
+2                      06:05PM                              Casino Royale
+3                      09:00PM                      The Magnificent Seven
+4                      11:50PM                                       Thor
+5                      01:50AM                                  Robocop 2
+6                      03:30AM               Dirty Dancing: Havana Nights
+7                      04:55AM                                 Alex Cross
+8                      06:25AM                                     Batman
+9                      09:00AM                                     WALL-E
+10                     11:00AM                                   Catwoman
+11                     01:15PM                                    Species
+
+MNX
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      03:10PM                        The Matrix Reloaded
+2                      05:30PM                              Vampires Suck
+3                      07:05PM                                   Poseidon
+4                      09:00PM                      The Magnificent Seven
+5                      11:35PM                                   Rocky IV
+6                      01:30AM                               Big Business
+7                      03:00AM                               Little Nicky
+8                      04:10AM    Alvin and the Chipmunks: The Squeakquel
+9                      05:40AM                                Pitch Black
+10                     07:40AM                                Seventh Son
+11                     09:20AM                          The Expendables 3
+12                     11:30AM        The Hobbit: The Desolation of Smaug
+
+STAR MOVIES
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      03:27PM                                   I, Robot
+2                      05:51PM                 Captain America: Civil War
+3                      09:00PM                             Doctor Strange
+4                      11:25PM                                 Iron Man 3
+5                      02:03AM                           Last Action Hero
+6                      04:07AM                                     Filler
+7                      04:26AM                      Live Free or Die Hard
+8                      06:29AM    Night at the Museum: Secret of the Tomb
+9                      08:26AM                Alien vs. Predator: Requiem
+10                     10:19AM                                       Cars
+11                     12:37PM                                 Real Steel
+
+WB
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      02:34PM                                     Easy A
+2                      04:03PM                                    Wrecker
+3                      05:19PM                          National Security
+4                      06:50PM                                     The 33
+5                      09:00PM                                    Shooter
+6                      11:11PM                                   The Crew
+7                      01:20AM                           Half Past Dead 2
+8                      02:50AM                             Zero Tolerance
+9                      04:14AM                                  Spotlight
+10                     04:18AM                             The Stepfather
+11                     04:23AM                           Tears of the Sun
+12                     07:49AM                                     Goemon
+13                     09:48AM                                 Sharktopus
+14                     11:28AM                            Sherlock Holmes
+15                     01:36PM                        Final Destination 5
+
+ZEE STUDIO
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      02:35PM                            Studio In-Depth
+2                      02:40PM                                    Ong Bak
+3                      04:45PM                            Studio In-Depth
+4                      04:50PM            Never Back Down 2: The Beatdown
+5                      06:50PM                            Studio In-Depth
+6                      06:55PM                             Drunken Master
+7                      08:55PM                            Studio In-Depth
+8                      09:00PM                                  The Eagle
+9                      11:25PM                            Studio In-Depth
+10                     11:30PM                       Insidious: Chapter 2
+11                     01:35AM                            Just for Laughs
+12                     03:00AM                                  Road Wars
+13                     04:30AM                                 Redirected
+14                     05:50AM                            Just for Laughs
+15                     07:15AM               Tomorrow, When the War Began
+16                     09:10AM                            Just Go with It
+17                     11:35AM                              The Guardians
+18                     01:30PM                      Underworld: Awakening
+
+COMEDY CENTRAL
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      02:30PM                                    Friends
+2                      03:00PM                               Will & Grace
+3                      03:30PM                         Brooklyn Nine-Nine
+4                      04:00PM                          The Mindy Project
+5                      04:30PM                             Kevin Can Wait
+6                      05:00PM                                    Younger
+7                      05:30PM                                    Younger
+8                      06:00PM                        Saturday Night Live
+9                      07:00PM                     Penn & Teller: Fool Us
+10                     08:00PM                     Penn & Teller: Fool Us
+11                     09:00PM                     The Graham Norton Show
+12                     10:00PM                                    Friends
+13                     10:30PM                                    Friends
+14                     11:00PM                                    Friends
+15                     11:30PM                                    Friends
+16                     12:00AM                                    Friends
+17                     12:30AM                                    Friends
+18                     01:00AM                             Kevin Can Wait
+19                     01:30AM                         Brooklyn Nine-Nine
+20                     02:00AM                          The Mindy Project
+21                     02:30AM                               Will & Grace
+22                     03:00AM                         Impractical Jokers
+23                     04:00AM                     Penn & Teller: Fool Us
+24                     05:00AM                     Penn & Teller: Fool Us
+25                     06:00AM     The Tonight Show Starring Jimmy Fallon
+26                     07:00AM                         Impractical Jokers
+27                     07:30AM                         Impractical Jokers
+28                     08:00AM                         Impractical Jokers
+29                     08:30AM                         Impractical Jokers
+30                     09:00AM                                    Friends
+31                     09:30AM                                    Friends
+32                     10:00AM                     Penn & Teller: Fool Us
+33                     11:00AM                          The Mindy Project
+34                     11:30AM                               Will & Grace
+35                     12:00PM                                    Friends
+36                     12:30PM                                    Friends
+37                     01:00PM                         Impractical Jokers
+38                     01:30PM                         Impractical Jokers
+39                     02:00PM                        Saturday Night Live
+
+COLORS INFINITY
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      03:00PM                 So You Think You Can Dance
+2                      04:00PM                                  The Flash
+3                      04:45PM                                      Arrow
+4                      05:30PM                                    Lucifer
+5                      06:30PM                       America’s Got Talent
+6                      08:00PM                                  The Stage
+7                      09:30PM                 So You Think You Can Dance
+8                      10:30PM                 So You Think You Can Dance
+9                      11:30PM                   America’s Next Top Model
+10                     12:15AM                   America’s Next Top Model
+11                     01:00AM                                  The Stage
+12                     02:30AM                           My Kitchen Rules
+13                     03:15AM                           My Kitchen Rules
+14                     04:15AM                 So You Think You Can Dance
+15                     05:15AM                 So You Think You Can Dance
+16                     06:00AM                           My Kitchen Rules
+17                     06:45AM                   America’s Next Top Model
+18                     07:30AM                       America’s Got Talent
+19                     09:00AM                 So You Think You Can Dance
+20                     10:00AM                                   Absentia
+21                     11:00AM                   America’s Next Top Model
+22                     12:00PM                 So You Think You Can Dance
+23                     01:00PM                       America’s Got Talent
+
+ZEE CAFE
+
+                          Time                                       Show
+0   Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                      03:00PM                                  New Blood
+2                      04:00PM                                  New Blood
+3                      05:30PM                             Young & Hungry
+4                      06:00PM                        The Big Bang Theory
+5                      06:30PM                               Just Kidding
+6                      07:00PM                               Just Kidding
+7                      07:30PM                                       9JKL
+8                      08:00PM             Criminal Minds: Beyond Borders
+9                      08:30PM                             Young & Hungry
+10                     09:00PM                              The Originals
+11                     10:00PM                        The Big Bang Theory
+12                     10:30PM                        The Big Bang Theory
+13                     11:00PM                        The Big Bang Theory
+14                     11:30PM                        The Big Bang Theory
+15                     12:00AM                                  The Catch
+16                     12:50AM                         Two and a Half Men
+17                     01:10AM                                     Castle
+18                     01:54AM             Criminal Minds: Beyond Borders
+19                     02:36AM                             Criminal Minds
+20                     03:20AM                             Criminal Minds
+21                     04:04AM                                    Scandal
+22                     04:48AM                                    Scandal
+23                     05:32AM                                     Castle
+24                     06:14AM                                 Ugly Betty
+25                     07:00AM                               World Church
+26                     07:30AM                            Just for Laughs
+27                     08:00AM                            Just for Laughs
+28                     08:30AM                            Just for Laughs
+29                     09:00AM                            Top 20 Funniest
+30                     10:00AM                                      SS-GB
+31                     11:00AM                        The Big Bang Theory
+32                     11:30AM                        The Big Bang Theory
+33                     12:00PM                         Two and a Half Men
+34                     12:30PM                         Two and a Half Men
+35                     01:00PM             Criminal Minds: Beyond Borders
+36                     02:00PM                            Just for Laughs
+37                     02:30PM                            Just for Laughs
+
+ZEE CINEMA
+
+                         Time                                       Show
+0  Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                     06:00PM                            Singh Is Bliing
+2                     09:00PM                                     Baaghi
+3                     02:00AM                      Santa Banta Pvt. Ltd.
+4                     04:45AM                                 No Problem
+5                     06:30AM                               Teleshopping
+6                     07:52AM                       Bajirao: The Fighter
+7                     08:56AM                                  Salaakhen
+8                     12:15PM                                     Pataas
+
+SONY MAX
+
+                         Time                                       Show
+0  Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                     05:00PM                              Rowdy Rathore
+2                     08:00PM                Baahubali 2: The Conclusion
+3                     12:00AM                                      Movie
+4                     03:12AM                                      Movie
+5                     05:00AM                                      Movie
+6                     07:06AM                                      Movie
+7                     10:00AM                                        ATM
+8                     01:00PM                             Kambakkht Ishq
+
+STAR GOLD
+
+                         Time                                       Show
+0  Today's Full ScheduleToday  Displaying Current & Upcoming Shows Only.
+1                     03:50PM               M.S. Dhoni: The Untold Story
+2                     07:55PM                                     Dhruva
+3                     11:10PM                             Action Jackson
+4                     02:10AM                            Fire in Babylon
+5                     03:45AM             Sneezing Baby Panda: The Movie
+6                     05:30AM                                     Dhammu
+7                     07:30AM                 Captain America: Civil War
+8                     10:45AM                                Housefull 3
